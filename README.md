@@ -34,7 +34,7 @@
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/taskflow-pro.git
+https://github.com/Bhavesh9908/task-tracker-app.git
 
 # Navigate to project directory
 cd taskflow-pro
