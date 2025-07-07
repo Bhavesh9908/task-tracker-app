@@ -49,7 +49,7 @@ Example: [https://your-task-tracker-app.vercel.app](https://your-task-tracker-ap
 
 
 ## Screenshots
-![Screenshot 1](./screenshots/task_tracker1.png)
+![Screenshot 1](./output/task_tracker1.png)
 ![Task Tracker Interface](./output/task_tracker1.png)
 
 ## Live Demo
