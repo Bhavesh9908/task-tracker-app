@@ -43,6 +43,14 @@ The Personal Task Tracker is a React-based web application designed to help user
 ### Prerequisites
 - Node.js v16+
 - npm v8+
+### Live Demo
+[Add your deployed application link here]  
+Example: [https://your-task-tracker-app.vercel.app](https://your-task-tracker-app.vercel.app)
+
+### Screenshots
+![App Screenshot](https://drive.google.com/file/d/1a9Jx368OnRhLA9RN_jCiR3DjjOrGRwax/view?usp=sharing)
+
+![Another Screenshot](https://drive.google.com/file/d/1LArrK7Wa70ADGo9OSUEpTiPquQpuHumn/view?usp=sharing)  
 
 ### Installation
 ```bash
@@ -57,7 +65,6 @@ npm install
 
 # Start development server
 npm start
-### Screenshots
-![App Screenshot](https://drive.google.com/file/d/1a9Jx368OnRhLA9RN_jCiR3DjjOrGRwax/view?usp=sharing)  
 
-![Another Screenshot](https://drive.google.com/file/d/1LArrK7Wa70ADGo9OSUEpTiPquQpuHumn/view?usp=sharing)  
+
+![Another Screenshot])  
