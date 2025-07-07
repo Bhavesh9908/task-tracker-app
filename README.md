@@ -49,11 +49,11 @@ Example: [https://your-task-tracker-app.vercel.app](https://your-task-tracker-ap
 
 
 ## Screenshots
-![Screenshot 1](./output/task_tracker1.png)
-![Task Tracker Interface](./output/task_tracker1.png)
+![Screenshot 1](./output/task_tracker2.png)
+![Screenshot 2](./output/task_tracker1.png)
 
 ## Live Demo
-[View Live Demo](https://your-deployed-app-url.vercel.app)  
+[View Live Demo](http://task-tracker-app-rho-six.vercel.app)  
 
 ### Installation
 ```bash
@@ -70,4 +70,4 @@ npm install
 npm start
 
 
-![Another Screenshot])  
+
