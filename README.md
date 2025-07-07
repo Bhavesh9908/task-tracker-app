@@ -1,7 +1,20 @@
 # TaskFlow Pro - Productivity Management System
-
-![TaskFlow Pro Demo](screenshots/app-demo.gif)  
+## Description
+The Personal Task Tracker is a React-based web application designed to help users organize and manage their daily tasks efficiently. With a clean and intuitive interface, users can add, edit, delete, and mark tasks as complete. The app persists tasks in the browser's local storage, ensuring your tasks remain available even after closing the browser.
 *Modern task management with dark mode and secure authentication*
+---
+
+### Features
+- Add new tasks with titles and optional descriptions
+- Mark tasks as complete/incomplete with checkbox toggle
+- Edit existing tasks to update their content
+- Delete tasks you no longer need
+- Responsive design that works on both desktop and mobile devices
+- Local storage integration to save tasks between sessions
+- Clean, modern UI with intuitive controls
+- 
+
+
 
 ## 🌟 Key Features
 
