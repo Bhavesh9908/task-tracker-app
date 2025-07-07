@@ -53,7 +53,7 @@ Example: [https://your-task-tracker-app.vercel.app](https://your-task-tracker-ap
 ![Screenshot 2](./output/task_tracker1.png)
 
 ## Live Demo
-[View Live Demo](https://your-deployed-app-url.vercel.app)  
+[View Live Demo](http://task-tracker-app-rho-six.vercel.app)  
 
 ### Installation
 ```bash
