@@ -2,7 +2,8 @@ import { useState, useRef } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { registerUser } from '../utils/auth';
 import { validateSignupForm } from '../utils/validation';
-import PasswordInput from '../components/auth/PasswordInput';
+//import PasswordInput from '../components/auth/PasswordInput';
+//import PasswordInput from '../components/auth/PasswordInput'; 
 import '../styles/Login.css';
 
 const SignupPage = () => {
@@ -43,7 +44,7 @@ const SignupPage = () => {
       await registerUser(formData);
       // Store the registered user in localStorage
       localStorage.setItem('currentUser', formData.username);
-      navigate('/dashboard');
+      navigate('/signin');
     } catch (error) {
       setErrors({ general: error.message });
     } finally {
