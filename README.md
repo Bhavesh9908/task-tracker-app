@@ -47,10 +47,13 @@ The Personal Task Tracker is a React-based web application designed to help user
 [Add your deployed application link here]  
 Example: [https://your-task-tracker-app.vercel.app](https://your-task-tracker-app.vercel.app)
 
-### Screenshots
-![App Screenshot](https://drive.google.com/file/d/1a9Jx368OnRhLA9RN_jCiR3DjjOrGRwax/view?usp=sharing)
 
-![Another Screenshot](https://drive.google.com/file/d/1LArrK7Wa70ADGo9OSUEpTiPquQpuHumn/view?usp=sharing)  
+## Screenshots
+![Task Tracker Interface](./output/task_tracker2.png)
+![Task Tracker Interface](./output/task_tracker1.png)
+
+## Live Demo
+[View Live Demo](https://your-deployed-app-url.vercel.app)  
 
 ### Installation
 ```bash
